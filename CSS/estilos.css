@@ -1,0 +1,8 @@
+div span{  /*se refiere a los span que estan dentro de div*/
+    color: blue;
+    font-size: 20px;
+
+}
+.verde{
+    color: green;
+}
