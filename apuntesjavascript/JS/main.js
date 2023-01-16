@@ -1,0 +1,1 @@
+alert("bienvenido a java script"); //Esto es un comentario de una sola linea//
